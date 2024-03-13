@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 body {
-    background-image: url(../Images/background.jpg);
     background-size: cover;
+    background-image: url(../Images/background2.jpg);
 }
 header {
     background-color: blue;
@@ -29,14 +29,14 @@ header h1 {
 
 #Menu ul li a {
     text-decoration: none;
-    color:white;
+    color:rgb(0, 0, 0);
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: "Rokkitt", serif;
 }
 
 h3 {
-    background-color: aquamarine;
+    background-color: blueviolet;
 }
 
 p {
